@@ -18,3 +18,10 @@ lcTracker/
 ├── intervals/
 ├── math-and-geometry/
 └── bit-manipulation/
+
+## Format
+Each solution includes:
+- Problem description and link
+- Brute force → optimized approaches
+- Time and space complexity for each approach
+- Key takeaways and patterns
