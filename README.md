@@ -44,3 +44,6 @@ Each solution includes:
 | Intervals | 0/6 |
 | Math & Geometry | 0/8 |
 | Bit Manipulation | 0/7 |
+
+## Tech
+- [NeetCode 150](https://neetcode.io/practice)
